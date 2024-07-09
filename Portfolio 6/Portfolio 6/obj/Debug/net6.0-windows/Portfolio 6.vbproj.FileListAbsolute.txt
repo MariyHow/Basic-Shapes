@@ -1,0 +1,17 @@
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\bin\Debug\net6.0-windows\Portfolio 6.exe
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\bin\Debug\net6.0-windows\Portfolio 6.deps.json
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\bin\Debug\net6.0-windows\Portfolio 6.runtimeconfig.json
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\bin\Debug\net6.0-windows\Portfolio 6.dll
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\bin\Debug\net6.0-windows\Portfolio 6.pdb
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.vbproj.AssemblyReference.cache
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio_6.Form1.resources
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.vbproj.GenerateResource.cache
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.AssemblyInfo.vb
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.vbproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.dll
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\refint\Portfolio 6.dll
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.pdb
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\Portfolio 6.genruntimeconfig.cache
+C:\Users\Samar\source\repos\Portfolio 6\Portfolio 6\obj\Debug\net6.0-windows\ref\Portfolio 6.dll
