@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Samar\source\repos\Automobile\Automobile\Source.cpp(89,2): error C2065: 'A': undeclared identifier
+C:\Users\Samar\source\repos\Automobile\Automobile\Source.cpp(89,51): error C2065: 'A': undeclared identifier
+C:\Users\Samar\source\repos\Automobile\Automobile\Source.cpp(90,2): error C2065: 'A': undeclared identifier
+C:\Users\Samar\source\repos\Automobile\Automobile\Source.cpp(90,67): error C2065: 'A': undeclared identifier
