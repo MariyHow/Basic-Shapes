@@ -1,0 +1,17 @@
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.vbproj.AssemblyReference.cache
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot_Carpet_Store.Form1.resources
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.vbproj.GenerateResource.cache
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.AssemblyInfo.vb
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.vbproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\bin\Debug\net6.0-windows\Maripot Carpet Store.exe
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\bin\Debug\net6.0-windows\Maripot Carpet Store.deps.json
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\bin\Debug\net6.0-windows\Maripot Carpet Store.runtimeconfig.json
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\bin\Debug\net6.0-windows\Maripot Carpet Store.dll
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\bin\Debug\net6.0-windows\Maripot Carpet Store.pdb
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.dll
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\refint\Maripot Carpet Store.dll
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.pdb
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\Maripot Carpet Store.genruntimeconfig.cache
+C:\Users\Samar\source\repos\Maripot Carpet Store\Maripot Carpet Store\obj\Debug\net6.0-windows\ref\Maripot Carpet Store.dll
