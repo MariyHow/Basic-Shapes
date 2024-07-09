@@ -1,0 +1,14 @@
+anyone,ne1
+are,r
+ate,8
+before,b4
+busy,bz
+cutie,qt
+today,2day
+tomorrow,2mro
+tonight,2nite
+too,2
+wait,w8
+why,y
+you,u
+your,ur
