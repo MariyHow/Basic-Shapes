@@ -1,2 +1,1 @@
-# Basic-Shapes
-Visual Studios 2022 Portfolio
+# Visual Studios 2022 Portfolios
