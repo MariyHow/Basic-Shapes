@@ -1,0 +1,16 @@
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\bin\Debug\net6.0-windows\Portfolio 10.exe
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\bin\Debug\net6.0-windows\Portfolio 10.deps.json
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\bin\Debug\net6.0-windows\Portfolio 10.runtimeconfig.json
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\bin\Debug\net6.0-windows\Portfolio 10.dll
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\bin\Debug\net6.0-windows\Portfolio 10.pdb
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio_10.Form1.resources
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.vbproj.GenerateResource.cache
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.AssemblyInfo.vb
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.vbproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.dll
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\refint\Portfolio 10.dll
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.pdb
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\Portfolio 10.genruntimeconfig.cache
+C:\Users\Samar\source\repos\Portfolio 10\Portfolio 10\obj\Debug\net6.0-windows\ref\Portfolio 10.dll
