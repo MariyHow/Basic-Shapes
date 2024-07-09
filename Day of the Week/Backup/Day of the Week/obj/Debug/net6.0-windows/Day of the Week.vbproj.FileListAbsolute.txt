@@ -1,0 +1,14 @@
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\bin\Debug\net6.0-windows\Day of the Week.exe
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\bin\Debug\net6.0-windows\Day of the Week.deps.json
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\bin\Debug\net6.0-windows\Day of the Week.runtimeconfig.json
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\bin\Debug\net6.0-windows\Day of the Week.dll
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\bin\Debug\net6.0-windows\Day of the Week.pdb
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.AssemblyInfo.vb
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.vbproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.dll
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\refint\Day of the Week.dll
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.pdb
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\Day of the Week.genruntimeconfig.cache
+C:\Users\Samar\source\repos\Day of the Week\Backup\Day of the Week\obj\Debug\net6.0-windows\ref\Day of the Week.dll
