@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Samar\source\repos\Book\Book\Source.cpp(27,6): error C2440: '=': cannot convert from 'const char [1]' to 'char'
+C:\Users\Samar\source\repos\Book\Book\Source.cpp(27,18): message : There is no context in which this conversion is possible
+C:\Users\Samar\source\repos\Book\Book\Source.cpp(55,4): error C2562: 'DynamicStack::Pop': 'void' function returning a value
+C:\Users\Samar\source\repos\Book\Book\Source.cpp(46): message : see declaration of 'DynamicStack::Pop'
