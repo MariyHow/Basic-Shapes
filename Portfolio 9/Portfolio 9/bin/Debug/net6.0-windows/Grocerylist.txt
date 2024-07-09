@@ -1,0 +1,9 @@
+Grocerylist
+Pancake Batter
+Cinnamon
+Peanut Butter
+Jelly
+Water
+Ramen Noodles
+Chips
+Cereal
